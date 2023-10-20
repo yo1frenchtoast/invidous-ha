@@ -8,4 +8,4 @@ webui: http://[HOST]:[PORT:3000]
 arch:
   - amd64
 ports:
-  3000/udp: 3000
+  3000/tcp: 3000
