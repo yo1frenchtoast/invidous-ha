@@ -1,4 +1,4 @@
-# Invidious Home-Asssitant Add-On
+# Invidious Home-Assistant Add-On
 All credits to [Invidious team](https://invidious.io/)
 
 ## How-to install
