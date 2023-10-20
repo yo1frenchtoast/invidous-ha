@@ -1,0 +1,11 @@
+name: Invidious
+version: 0.1.0
+slug: invidious
+description: An open source alternative front-end to YouTube
+url: https://github.com/yo1frenchtoast/invidous-ha
+webui: http://[HOST]:[PORT:3000]
+arch:
+  - amd64
+ports:
+  3000/udp: 3000
+
